@@ -8,7 +8,7 @@ This is the code repository for [Cracking the Data Engineering Interview](https:
 
 ## What is this book about?
 Preparing for a data engineering interview can often get overwhelming due to the abundance of tools and technologies, leaving you struggling to prioritize which ones to focus on. This hands-on guide provides you with the essential foundational and advanced knowledge needed to simplify your learning journey.
-The book begins by helping you gain a clear understanding of the nature of data engineering and how it differs from organization to organization. As you progress through the chapters, you’ll receive expert advice, practical tips, and real-world insights on everything from creating a resume and cover letter to networking and negotiating your salary. The chapters also offer refresher training on data engineering essentials, including data modeling, database architecture, ETL processes, data warehousing, cloud computing, big data, and machine learning. As you advance, you’ll gain a holistic view by exploring continuous integration/continuous development (CI/CD), data security, and privacy. Finally, the book will help you practice case studies, mock interviews, as well as behavioral questions.
+
 
 This book covers the following exciting features: 
 * Create maintainable and scalable code for unit testing
