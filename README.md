@@ -41,9 +41,9 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 
 | Chapter  | Software required                                                                    | OS required                        |
-| -------- | --------------------------------------------------------------------- ----------------| -----------------------------------|
-|  2		   |   					Microsoft Azure		                                            			  | Windows, Mac OS X, and Linux (Any) |
-|   2      | Amazon Web Services  																					            Windows, Mac OS X, and Linux (Any)|
+| -------- | ------------------------------------------------------------------------------------| -----------------------------------|
+|  2		   | 	Microsoft Azure		                                            			  | Windows, Mac OS X, and Linux (Any) |
+|   2      | Amazon Web Services  																					         |   Windows, Mac OS X, and Linux (Any)|
 
 ### Related products <Other books you may enjoy>
 * Data Wrangling with SQL [[Packt]](https://www.packtpub.com/product/data-wrangling-with-sql/9781837630028) [[Amazon]](https://www.amazon.com/dp/183763002X)
