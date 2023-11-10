@@ -1,8 +1,8 @@
 # Cracking the Data Engineering Interview	
 
-<a href="https://www.amazon.com/Cracking-Data-Engineering-Interview-resume-building/dp/1837630771"><img src="https://m.media-amazon.com/images/I/71FddpHj+dL._SY466_.jpg" alt="Cracking the Data Engineering Interview" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/cracking-the-data-engineering-interview/9781837630776"><img src="https://www.packtpub.com/search?query=cracking+the+data+engineering+interview" alt="Cracking the Data Engineering Interview" height="256px" align="right"></a>
 
-This is the code repository for [Cracking the Data Engineering Interview](https://m.media-amazon.com/images/I/71FddpHj+dL._SY466_.jpg), published by Packt.
+This is the code repository for [Cracking the Data Engineering Interview](https://www.packtpub.com/product/cracking-the-data-engineering-interview/9781837630776), published by Packt.
 
 **Land your dream job with the help of resume-building tips, over 100 mock questions, and a unique portfolio**
 
