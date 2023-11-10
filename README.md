@@ -1,6 +1,6 @@
 # Cracking the Data Engineering Interview	
 
-<a href="https://www.packtpub.com/product/cracking-the-data-engineering-interview/9781837630776"><img src="https://www.packtpub.com/search?query=cracking+the+data+engineering+interview" alt="Cracking the Data Engineering Interview" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/cracking-the-data-engineering-interview/9781837630776"><img src="https://content.packt.com/B19497/cover_image_small.jpg" alt="Cracking the Data Engineering Interview" height="256px" align="right"></a>
 
 This is the code repository for [Cracking the Data Engineering Interview](https://www.packtpub.com/product/cracking-the-data-engineering-interview/9781837630776), published by Packt.
 
